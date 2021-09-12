@@ -1,5 +1,7 @@
 # 큐
 
+>   https://jihogrammer.tistory.com/66
+
 ## BOJ
 
 ### 성능
